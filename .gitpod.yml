@@ -1,0 +1,3 @@
+tasks:
+  - command: mvn install -DskipTests=false
+privileged: true
